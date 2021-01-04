@@ -1,0 +1,10 @@
+{
+    "service": "node-project",
+    "env": "local",
+    "port": 3100,
+
+    "mongo_url": "mongodb://localhost:27017/node-project",
+
+    "secret_key": "NodeProjectSECret2021",
+    "token_expired_days": "1m"
+}

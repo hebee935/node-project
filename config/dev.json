@@ -1,0 +1,10 @@
+{
+    "service": "node-project",
+    "env": "develop",
+    "port": 3100,
+
+    "mongo_url": "",
+
+    "secret_key": "NodeProjectSECret2021",
+    "token_expired_days": "1m"
+}
